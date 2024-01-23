@@ -1,7 +1,5 @@
 Hi! I’m Mariana. 
-Just graduated from university, spending some time researching further on my dissertation while applying for jobs
-
-Currently interested in reinforcement learning, using tensorflow on python. Going to try my hand at applying different papers.
+I'm currently at UCL studying AI for Biomedicine and Healthcare. Currently interested in reinforcement learning.
 
 
 <!---
