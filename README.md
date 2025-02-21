@@ -1,5 +1,5 @@
 Hi! I’m Mariana. 
-I'm currently at UCL studying AI for Biomedicine and Healthcare. Currently interested in reinforcement learning.
+I studied AI for Biomedicine and Healthcare at UCL. Currently interested in Cheminformatics and its use in AI Drug Discovery.
 
 
 <!---
